@@ -12,4 +12,4 @@
 - [X] 3. Good UI/UX + Bug-free code <br><br>
 
 # Demo video of the working of the Application <br><br>
-- [X] https://drive.google.com/file/d/1JbrMtv27Ob0mLnZw-WOazv2t5lZ538SG/view?usp=sharing
+- [X] https://youtu.be/c4gxdtMiRrQ
