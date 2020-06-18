@@ -1,5 +1,5 @@
 # To-do UC Application Overview <br><br>
-   &nbsp;![rsz_screenshot_from_2020-06-18_16-25-03](https://user-images.githubusercontent.com/22853459/85012370-8bf15280-b180-11ea-98ca-b47fdbf9a85c.png)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![rsz_screenshot_from_2020-06-18_16-25-03](https://user-images.githubusercontent.com/22853459/85012370-8bf15280-b180-11ea-98ca-b47fdbf9a85c.png)
 - [ ] 1. New Task Button - This button is present on the AppBar, clicking on this button should open a dialog box showing text input for the task and a Submit button. <br><br>
 - [X] 2. Clicking the Submit button should save the task in the SQLite database. <br><br>
 - [ ] 3. There should be a RecyclerView displaying the list of Tasks and a “Check” button. Clicking the “Check” button will mark the task’s state as complete. The text in the task should strikethrough at this point. <br><br>
