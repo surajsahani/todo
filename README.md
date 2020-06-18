@@ -1,7 +1,6 @@
 # Android **Notes App** demonstrating **SQLite** database.
 
-## To-do Application <br>
-Overview
+## To-do Application Overview <br><br>
 1.New Task Button - This button is present on the AppBar, clicking on this button should open a dialog box showing text input for the task and a Submit button.-**Done** <br><br>
 2.Clicking the Submit button should save the task in the SQLite database.-**Done** <br><br>
 3.There should be a RecyclerView displaying the list of Tasks and a “Check” button. Clicking the “Check” button will mark the task’s state as complete. The text in the task should strikethrough at this point.-**Not Done**8 <br><br>
