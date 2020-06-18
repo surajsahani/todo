@@ -10,3 +10,6 @@
 - [X] 1. Add search functionality. <br><br>
 - [X] 2. Add the option to mark the task as a priority while creating. <br><br>
 - [X] 3. Good UI/UX + Bug-free code <br><br>
+
+# Demo video of the working of the Application <br><br>
+- [X] https://drive.google.com/file/d/1JbrMtv27Ob0mLnZw-WOazv2t5lZ538SG/view?usp=sharing
