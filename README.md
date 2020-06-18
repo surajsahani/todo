@@ -16,6 +16,8 @@
 ![to-do-uc](https://user-images.githubusercontent.com/22853459/85010938-7c710a00-b17e-11ea-8d74-6ee63c515229.gif)
 
 # Concepts implemented in the project
-**1. Recyclerview**   <br>
-**2. SQLite Database** <br>
-**3. Intents** <br>
+- [LiveData](https://developer.android.com/topic/libraries/architecture/livedata.html)<br><br>
+- [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel.html)<br><br>
+- [Navigation UI](https://developer.android.com/guide/navigation/navigation-ui)<br><br>
+- [SQLiteDatabase](https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase)
+
