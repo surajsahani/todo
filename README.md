@@ -1,4 +1,4 @@
-Android **Notes App** demonstrating **SQLite** database.
+#h1Android **Notes App** demonstrating **SQLite** database.
 
 To-do Application
 Overview
