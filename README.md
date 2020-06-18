@@ -20,4 +20,4 @@
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel.html)<br><br>
 - [Navigation UI](https://developer.android.com/guide/navigation/navigation-ui)<br><br>
 - [SQLiteDatabase](https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase)
--  [Apk]https://drive.google.com/file/d/1lCBA2qjSBGRJ7XtM3SIul4fT8YfkUKTk/view?usp=sharing
+- [Apk](https://drive.google.com/file/d/1lCBA2qjSBGRJ7XtM3SIul4fT8YfkUKTk/view?usp=sharing)
