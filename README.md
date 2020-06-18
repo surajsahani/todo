@@ -17,6 +17,6 @@
 ![to-do-uc](https://user-images.githubusercontent.com/22853459/85010938-7c710a00-b17e-11ea-8d74-6ee63c515229.gif)
 
 # Concepts implemented in the project
-**1.Recyclerview**   <br>
-**2.SQLite Database** <br>
-**3.Intents** <br>
+**1. Recyclerview**   <br>
+**2. SQLite Database** <br>
+**3. Intents** <br>
