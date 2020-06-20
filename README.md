@@ -1,5 +1,5 @@
 # To-do UC Application Overview <br><br>
-[INTERNSHIP REPORT UC.pdf](https://github.com/surajsahani/To-Do-UC/files/4808446/INTERNSHIP.REPORT.UC.pdf)
+[INTERNSHIP REPORT UC.pdf](https://github.com/surajsahani/To-Do-UC/files/4808446/INTERNSHIP.REPORT.UC.pdf)<br><br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![rsz_screenshot_from_2020-06-18_16-25-03](https://user-images.githubusercontent.com/22853459/85012370-8bf15280-b180-11ea-98ca-b47fdbf9a85c.png)
 - [ ] 1. New Task Button - This button is present on the AppBar, clicking on this button should open a dialog box showing text input for the task and a Submit button- ``Ongoing``. <br><br>
 - [X] 2. Clicking the Submit button should save the task in the SQLite database. <br><br>
