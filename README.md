@@ -19,7 +19,8 @@
 - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata.html)<br><br>
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel.html)<br><br>
 - [Navigation UI](https://developer.android.com/guide/navigation/navigation-ui)<br><br>
-- [SQLiteDatabase](https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase)
+- [SQLiteDatabase](https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase) - New Note where I capture the Text and in a database, In two other activities, MySQLiteDatabase Contract and MySQLiteDatabaseHelper we create the database to store our results
+
 
 ## Build Apk
 - [Apk](https://drive.google.com/file/d/1lCBA2qjSBGRJ7XtM3SIul4fT8YfkUKTk/view?usp=sharing)
