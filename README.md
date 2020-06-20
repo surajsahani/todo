@@ -17,7 +17,7 @@
 
 # Concepts implemented in the project
 - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata.html)<br><br>
-- [Android Recycler view](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView) The Recycler view code is very simple,   I am creating a RecyclerAdapter to display the Notes info on a Main Screen. My RecyclerView contains multiple notes, each of which is modified with the onBindViewHolder. The layout of each notes has many text views. I also Used Three methods into that ,The first one contains a string that is the date format. The second one contains a edit on long press at task with a delete task. The third is identical to the second, but represents the delete task. 
+- [Android Recycler view](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)- The Recycler view code is very simple,   I am creating a RecyclerAdapter to display the Notes info on a Main Screen. My RecyclerView contains multiple notes, each of which is modified with the onBindViewHolder. The layout of each notes has many text views. I also Used Three methods into that ,The first one contains a string that is the date format. The second one contains a edit on long press at task with a delete task. The third is identical to the second, but represents the delete task. 
 
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel.html)<br><br>
 - [Navigation UI](https://developer.android.com/guide/navigation/navigation-ui)<br><br>
