@@ -6,9 +6,8 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 
-import com.example.todo_app.adapter.TodoListAdapter;
-import com.example.todo_app.repositories.TodoRepository;
 import com.example.todo_app.db.TodoTask;
+import com.example.todo_app.repositories.TodoRepository;
 
 import java.util.List;
 

@@ -19,6 +19,7 @@ import com.example.todo_app.R;
 import com.example.todo_app.db.TodoTask;
 
 import java.util.List;
+
 public class TodoListAdapter extends RecyclerView.Adapter<TodoListAdapter.TodoTaskViewHolder> {
     private final LayoutInflater mInflater;
     private List<TodoTask> mTasks;
